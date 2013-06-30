@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #    Playa - piping the 8-bit hits through aplay
 #
 #    This program is free software: you can redistribute it and/or modify
